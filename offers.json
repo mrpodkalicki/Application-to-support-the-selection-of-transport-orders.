@@ -1,0 +1,64 @@
+
+[
+{"id_firma":0, "zysk":150000.2, "kapital":100, "aktywa":200,"indeks_transrisk":1,"nazwa":"Auto","komentarze":"128/12/6","id_ladunku":1,"cena_frachtu":100,
+"waga":100,"data_odbioru":"12-1-2018", "waluta":1, "wymiary_ladunku":"20x10x5", "id_miasto_odbioru":1, "id_miasto_docelowe":5 },
+
+{"id_firma":1, "zysk":11000.2, "kapital":101, "aktywa":300,"indeks_transrisk":0,"nazwa":"Beta","komentarze":"27/3/1","id_ladunku":2,"cena_frachtu":110,
+"waga":200,"data_odbioru":"13-1-2018", "waluta":1, "wymiary_ladunku":"20x10x5", "id_miasto_odbioru":2, "id_miasto_docelowe":6 },
+
+{"id_firma":1, "zysk":10000.2, "kapital":102, "aktywa":100,"indeks_transrisk":0,"nazwa":"Beta","komentarze":"27/3/1","id_ladunku":3,"cena_frachtu":98,
+"waga":50,"data_odbioru":"13-1-2018", "waluta":1, "wymiary_ladunku":"20x10x5", "id_miasto_odbioru":2, "id_miasto_docelowe":7 },
+
+{"id_firma":2, "zysk":1070.2, "kapital":103, "aktywa":101,"indeks_transrisk":0,"nazwa":"AlfaX","komentarze":"10/2/8","id_ladunku":4,"cena_frachtu":102,
+"waga":800,"data_odbioru":"14-1-2018", "waluta":1, "wymiary_ladunku":"20x10x5", "id_miasto_odbioru":3, "id_miasto_docelowe":8 },
+
+{"id_firma":3, "zysk":9000.2, "kapital":104, "aktywa":252,"indeks_transrisk":0,"nazwa":"NeverOnTime","komentarze":"100/1/0","id_ladunku":5,"cena_frachtu":201,
+"waga":500,"data_odbioru":"15-1-2018", "waluta":1, "wymiary_ladunku":"20x10x5", "id_miasto_odbioru":4, "id_miasto_docelowe":9 },
+
+{"id_firma":2, "zysk":100000.2, "kapital":105, "aktywa":203,"indeks_transrisk":0,"nazwa":"AlfaX","komentarze":"10/2/8","id_ladunku":6,"cena_frachtu":178,
+"waga":1789,"data_odbioru":"14-1-2018", "waluta":1, "wymiary_ladunku":"20x10x5", "id_miasto_odbioru":3, "id_miasto_docelowe":10 },
+
+{"id_firma":1, "zysk":1000.2, "kapital":106, "aktywa":201,"indeks_transrisk":0,"nazwa":"Beta","komentarze":"27/3/1","id_ladunku":7,"cena_frachtu":156,
+"waga":700,"data_odbioru":"13-1-2018", "waluta":1, "wymiary_ladunku":"20x10x5", "id_miasto_odbioru":2, "id_miasto_docelowe":11 },
+
+{"id_firma":1, "zysk":7000.2, "kapital":107, "aktywa":156,"indeks_transrisk":0,"nazwa":"Beta","komentarze":"27/3/1","id_ladunku":8,"cena_frachtu":59,
+"waga":267,"data_odbioru":"13-1-2018", "waluta":1, "wymiary_ladunku":"20x10x5", "id_miasto_odbioru":2, "id_miasto_docelowe":12 },
+
+{"id_firma":1, "zysk":100000.2, "kapital":108, "aktywa":124,"indeks_transrisk":0,"nazwa":"Beta","komentarze":"27/3/1","id_ladunku":9,"cena_frachtu":110,
+"waga":20,"data_odbioru":"13-1-2018", "waluta":1, "wymiary_ladunku":"20x10x5", "id_miasto_odbioru":2, "id_miasto_docelowe":13 },
+
+{"id_firma":0, "zysk":20400.2, "kapital":109, "aktywa":876,"indeks_transrisk":1,"nazwa":"Auto","komentarze":"128/12/6","id_ladunku":10,"cena_frachtu":876,
+"waga":800,"data_odbioru":"12-1-2018", "waluta":1, "wymiary_ladunku":"20x10x5", "id_miasto_odbioru":1, "id_miasto_docelowe":14 },
+  {"id_firma":0, "zysk":150000.2, "kapital":100, "aktywa":200,"indeks_transrisk":1,"nazwa":"Auto","komentarze":"128/12/6","id_ladunku":1,"cena_frachtu":100,
+"waga":100,"data_odbioru":"12-1-2018", "waluta":1, "wymiary_ladunku":"20x10x5", "id_miasto_odbioru":1, "id_miasto_docelowe":5 },
+
+{"id_firma":1, "zysk":11000.2, "kapital":101, "aktywa":300,"indeks_transrisk":0,"nazwa":"Beta","komentarze":"27/3/1","id_ladunku":2,"cena_frachtu":110,
+"waga":200,"data_odbioru":"13-1-2018", "waluta":1, "wymiary_ladunku":"20x10x5", "id_miasto_odbioru":2, "id_miasto_docelowe":6 },
+
+{"id_firma":1, "zysk":10000.2, "kapital":102, "aktywa":100,"indeks_transrisk":0,"nazwa":"Beta","komentarze":"27/3/1","id_ladunku":3,"cena_frachtu":98,
+"waga":50,"data_odbioru":"13-1-2018", "waluta":1, "wymiary_ladunku":"20x10x5", "id_miasto_odbioru":2, "id_miasto_docelowe":7 },
+
+{"id_firma":2, "zysk":1070.2, "kapital":103, "aktywa":101,"indeks_transrisk":0,"nazwa":"AlfaX","komentarze":"10/2/8","id_ladunku":4,"cena_frachtu":102,
+"waga":800,"data_odbioru":"14-1-2018", "waluta":1, "wymiary_ladunku":"20x10x5", "id_miasto_odbioru":3, "id_miasto_docelowe":8 },
+
+{"id_firma":3, "zysk":9000.2, "kapital":104, "aktywa":252,"indeks_transrisk":0,"nazwa":"NeverOnTime","komentarze":"100/1/0","id_ladunku":5,"cena_frachtu":201,
+"waga":500,"data_odbioru":"15-1-2018", "waluta":1, "wymiary_ladunku":"20x10x5", "id_miasto_odbioru":4, "id_miasto_docelowe":9 },
+
+{"id_firma":2, "zysk":100000.2, "kapital":105, "aktywa":203,"indeks_transrisk":0,"nazwa":"AlfaX","komentarze":"10/2/8","id_ladunku":6,"cena_frachtu":178,
+"waga":1789,"data_odbioru":"14-1-2018", "waluta":1, "wymiary_ladunku":"20x10x5", "id_miasto_odbioru":3, "id_miasto_docelowe":10 },
+
+{"id_firma":1, "zysk":1000.2, "kapital":106, "aktywa":201,"indeks_transrisk":0,"nazwa":"Beta","komentarze":"27/3/1","id_ladunku":7,"cena_frachtu":156,
+"waga":700,"data_odbioru":"13-1-2018", "waluta":1, "wymiary_ladunku":"20x10x5", "id_miasto_odbioru":2, "id_miasto_docelowe":11 },
+
+{"id_firma":1, "zysk":7000.2, "kapital":107, "aktywa":156,"indeks_transrisk":0,"nazwa":"Beta","komentarze":"27/3/1","id_ladunku":8,"cena_frachtu":59,
+"waga":267,"data_odbioru":"13-1-2018", "waluta":1, "wymiary_ladunku":"20x10x5", "id_miasto_odbioru":2, "id_miasto_docelowe":12 },
+
+{"id_firma":1, "zysk":100000.2, "kapital":108, "aktywa":124,"indeks_transrisk":0,"nazwa":"Beta","komentarze":"27/3/1","id_ladunku":9,"cena_frachtu":110,
+"waga":20,"data_odbioru":"13-1-2018", "waluta":1, "wymiary_ladunku":"20x10x5", "id_miasto_odbioru":2, "id_miasto_docelowe":13 },
+
+{"id_firma":0, "zysk":20400.2, "kapital":109, "aktywa":876,"indeks_transrisk":1,"nazwa":"Auto","komentarze":"128/12/6","id_ladunku":10,"cena_frachtu":876,
+"waga":800,"data_odbioru":"12-1-2018", "waluta":1, "wymiary_ladunku":"20x10x5", "id_miasto_odbioru":1, "id_miasto_docelowe":14 }
+]
+
+
+ 
