@@ -1,2 +1,4 @@
 # ZPI_transport
-Algorithm implementation ,,Electre"
+"Electre" algorithm implementation 
+🍆💦🍑
+![troll](http://segritta.pl/wp-content/uploads/2012/07/troll.jpg)
